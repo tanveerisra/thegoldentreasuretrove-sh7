@@ -23,6 +23,14 @@ body {
   }
 
   a:hover {
-    color: red;
-    /* makes it so the text changes colour when you hover over the link */
+    background-color: gold;
   }
+
+  h2 {
+    color: #2e2265;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+h3 {
+    color: #49396e
+    }
