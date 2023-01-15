@@ -1,0 +1,28 @@
+body {
+    background-color: #e9e6f6 
+  }
+  h1 {
+    color: #2e2265;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  }
+  p {
+    color: #2e2265;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2cm;
+  }
+  
+  img {
+    width: 400px
+  }
+
+  a{
+    text-decoration: none;
+    /* removes underline from links */
+  }
+
+  a:hover {
+    color: red;
+    /* makes it so the text changes colour when you hover over the link */
+  }
